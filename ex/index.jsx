@@ -5,6 +5,6 @@ import First, { Second} from './component'
 ReactDOM.render(
     <div>
         <First />
-        <Second  />
+        <Second />
     </div>
 , document.getElementById('app'))
